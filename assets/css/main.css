@@ -960,6 +960,7 @@ section,
     font-size: 14px;
     line-height: 20px;
     width: 100% !important;
+    text-align: center !important;
 
   }
 }
